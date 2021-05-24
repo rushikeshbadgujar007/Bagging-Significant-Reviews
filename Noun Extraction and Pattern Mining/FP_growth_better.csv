@@ -1,0 +1,343 @@
+,support,itemsets
+0,0.4014365522745411,frozenset({'good'})
+1,0.3192338387869114,frozenset({'product'})
+2,0.1739824421388667,frozenset({'installation'})
+3,0.023543495610534718,frozenset({'well'})
+4,0.023543495610534718,frozenset({'like'})
+5,0.14365522745411013,frozenset({'bed'})
+6,0.06424581005586592,frozenset({'time'})
+7,0.035913806863527534,frozenset({'design'})
+8,0.029529130087789304,frozenset({'go'})
+9,0.023942537909018357,frozenset({'storage'})
+10,0.020750199521149242,frozenset({'size'})
+11,0.019553072625698324,frozenset({'purchase'})
+12,0.01596169193934557,frozenset({'u'})
+13,0.011971268954509178,frozenset({'thing'})
+14,0.010375099760574621,frozenset({'support'})
+15,0.010375099760574621,frozenset({'side'})
+16,0.009976057462090982,frozenset({'fit'})
+17,0.009577015163607342,frozenset({'give'})
+18,0.007980845969672785,frozenset({'proper'})
+19,0.007581803671189146,frozenset({'head'})
+20,0.11931364724660815,frozenset({'money'})
+21,0.05107741420590583,frozenset({'one'})
+22,0.04349561053471668,frozenset({'wood'})
+23,0.04309656823623304,frozenset({'delivery'})
+24,0.028731045490822026,frozenset({'best'})
+25,0.02713487629688747,frozenset({'awesome'})
+26,0.020750199521149242,frozenset({'range'})
+27,0.019952114924181964,frozenset({'get'})
+28,0.01675977653631285,frozenset({'material'})
+29,0.01596169193934557,frozenset({'need'})
+30,0.015163607342378291,frozenset({'look'})
+31,0.013966480446927373,frozenset({'thank'})
+32,0.013567438148443736,frozenset({'guy'})
+33,0.013168395849960097,frozenset({'mattress'})
+34,0.0111731843575419,frozenset({'take'})
+35,0.009976057462090982,frozenset({'ply'})
+36,0.007182761372705506,frozenset({'shift'})
+37,0.08659217877094973,frozenset({'price'})
+38,0.02713487629688747,frozenset({'perfect'})
+39,0.01636073423782921,frozenset({'floor'})
+40,0.015163607342378291,frozenset({'team'})
+41,0.014365522745411013,frozenset({'height'})
+42,0.0111731843575419,frozenset({'think'})
+43,0.009976057462090982,frozenset({'space'})
+44,0.008379888268156424,frozenset({'everything'})
+45,0.007581803671189146,frozenset({'enough'})
+46,0.14924181963288108,frozenset({'quality'})
+47,0.014764565043894652,frozenset({'please'})
+48,0.011971268954509178,frozenset({'water'})
+49,0.04868316041500399,frozenset({'service'})
+50,0.011971268954509178,frozenset({'budget'})
+51,0.009577015163607342,frozenset({'bit'})
+52,0.007182761372705506,frozenset({'house'})
+53,0.027932960893854747,frozenset({'use'})
+54,0.018355945730247406,frozenset({'cant'})
+55,0.014365522745411013,frozenset({'durable'})
+56,0.01157222665602554,frozenset({'bought'})
+57,0.007980845969672785,frozenset({'place'})
+58,0.007980845969672785,frozenset({'bottom'})
+59,0.007581803671189146,frozenset({'finish'})
+60,0.017158818834796488,frozenset({'day'})
+61,0.015163607342378291,frozenset({'technician'})
+62,0.07063048683160415,frozenset({'value'})
+63,0.06584197924980048,frozenset({'buy'})
+64,0.007980845969672785,frozenset({'fine'})
+65,0.008778930566640064,frozenset({'see'})
+66,0.11412609736632083,frozenset({'nice'})
+67,0.017557861133280128,frozenset({'amp'})
+68,0.014365522745411013,frozenset({'id'})
+69,0.008379888268156424,frozenset({'case'})
+70,0.008379888268156424,frozenset({'cost'})
+71,0.04309656823623304,frozenset({'worth'})
+72,0.025937749401436554,frozenset({'person'})
+73,0.018754988028731046,frozenset({'work'})
+74,0.010375099760574621,frozenset({'superb'})
+75,0.009976057462090982,frozenset({'part'})
+76,0.009976057462090982,frozenset({'move'})
+77,0.007182761372705506,frozenset({'king'})
+78,0.011971268954509178,frozenset({'box'})
+79,0.009976057462090982,frozenset({'want'})
+80,0.012370311252992818,frozenset({'board'})
+81,0.011971268954509178,frozenset({'job'})
+82,0.009976057462090982,frozenset({'furniture'})
+83,0.020351157222665603,frozenset({'super'})
+84,0.008379888268156424,frozenset({'problem'})
+85,0.014764565043894652,frozenset({'experience'})
+86,0.010375099760574621,frozenset({'people'})
+87,0.03192338387869114,frozenset({'excellent'})
+88,0.009976057462090982,frozenset({'quick'})
+89,0.014365522745411013,frozenset({'average'})
+90,0.013567438148443736,frozenset({'cot'})
+91,0.008379888268156424,frozenset({'kind'})
+92,0.007980845969672785,frozenset({'damage'})
+93,0.007581803671189146,frozenset({'make'})
+94,0.02753391859537111,frozenset({'worst'})
+95,0.008379888268156424,frozenset({'broken'})
+96,0.007980845969672785,frozenset({'item'})
+97,0.01077414205905826,frozenset({'home'})
+98,0.009177972865123703,frozenset({'plywood'})
+99,0.007182761372705506,frozenset({'care'})
+100,0.007182761372705506,frozenset({'room'})
+101,0.02154828411811652,frozenset({'low'})
+102,0.017956903431763767,frozenset({'waste'})
+103,0.01157222665602554,frozenset({'month'})
+104,0.009177972865123703,frozenset({'cheap'})
+105,0.007581803671189146,frozenset({'issue'})
+106,0.15083798882681565,"frozenset({'product', 'good'})"
+107,0.08619313647246608,"frozenset({'installation', 'good'})"
+108,0.08260175578611333,"frozenset({'product', 'installation'})"
+109,0.047885075818036714,"frozenset({'installation', 'product', 'good'})"
+110,0.013168395849960097,"frozenset({'installation', 'well'})"
+111,0.01077414205905826,"frozenset({'well', 'good'})"
+112,0.009976057462090982,"frozenset({'product', 'well'})"
+113,0.007182761372705506,"frozenset({'well', 'time'})"
+114,0.01077414205905826,"frozenset({'product', 'like'})"
+115,0.008379888268156424,"frozenset({'good', 'like'})"
+116,0.0538707102952913,"frozenset({'bed', 'good'})"
+117,0.028731045490822026,"frozenset({'bed', 'installation'})"
+118,0.038707102952913006,"frozenset({'bed', 'product'})"
+119,0.03471667996807662,"frozenset({'bed', 'quality'})"
+120,0.012769353551476457,"frozenset({'bed', 'installation', 'good'})"
+121,0.01077414205905826,"frozenset({'bed', 'product', 'installation'})"
+122,0.008778930566640064,"frozenset({'bed', 'installation', 'quality'})"
+123,0.017557861133280128,"frozenset({'bed', 'product', 'good'})"
+124,0.012370311252992818,"frozenset({'bed', 'product', 'quality'})"
+125,0.01675977653631285,"frozenset({'bed', 'good', 'quality'})"
+126,0.03671189146049481,"frozenset({'installation', 'time'})"
+127,0.029928172386272944,"frozenset({'good', 'time'})"
+128,0.014764565043894652,"frozenset({'bed', 'time'})"
+129,0.028731045490822026,"frozenset({'product', 'time'})"
+130,0.01157222665602554,"frozenset({'time', 'quality'})"
+131,0.010375099760574621,"frozenset({'money', 'time'})"
+132,0.017956903431763767,"frozenset({'installation', 'good', 'time'})"
+133,0.009976057462090982,"frozenset({'bed', 'installation', 'time'})"
+134,0.019952114924181964,"frozenset({'product', 'installation', 'time'})"
+135,0.01596169193934557,"frozenset({'product', 'good', 'time'})"
+136,0.011971268954509178,"frozenset({'installation', 'product', 'good', 'time'})"
+137,0.007182761372705506,"frozenset({'time', 'installation', 'quality'})"
+138,0.007182761372705506,"frozenset({'product', 'money', 'time'})"
+139,0.02194732641660016,"frozenset({'good', 'design'})"
+140,0.008778930566640064,"frozenset({'bed', 'design'})"
+141,0.007581803671189146,"frozenset({'installation', 'design'})"
+142,0.007182761372705506,"frozenset({'money', 'design'})"
+143,0.011971268954509178,"frozenset({'product', 'design'})"
+144,0.009976057462090982,"frozenset({'quality', 'design'})"
+145,0.009177972865123703,"frozenset({'product', 'good', 'design'})"
+146,0.010375099760574621,"frozenset({'good', 'go'})"
+147,0.008379888268156424,"frozenset({'bed', 'go'})"
+148,0.013567438148443736,"frozenset({'product', 'go'})"
+149,0.009177972865123703,"frozenset({'money', 'go'})"
+150,0.007581803671189146,"frozenset({'product', 'good', 'go'})"
+151,0.011971268954509178,"frozenset({'storage', 'good'})"
+152,0.010375099760574621,"frozenset({'storage', 'bed'})"
+153,0.009577015163607342,"frozenset({'storage', 'product'})"
+154,0.013168395849960097,"frozenset({'size', 'bed'})"
+155,0.009177972865123703,"frozenset({'size', 'good'})"
+156,0.008778930566640064,"frozenset({'size', 'product'})"
+157,0.007581803671189146,"frozenset({'product', 'purchase'})"
+158,0.007581803671189146,"frozenset({'product', 'u'})"
+159,0.04030327214684756,"frozenset({'product', 'money'})"
+160,0.03990422984836393,"frozenset({'good', 'money'})"
+161,0.02194732641660016,"frozenset({'bed', 'money'})"
+162,0.020351157222665603,"frozenset({'installation', 'money'})"
+163,0.0223463687150838,"frozenset({'money', 'quality'})"
+164,0.020750199521149242,"frozenset({'product', 'good', 'money'})"
+165,0.007980845969672785,"frozenset({'bed', 'good', 'money'})"
+166,0.008778930566640064,"frozenset({'bed', 'product', 'money'})"
+167,0.007980845969672785,"frozenset({'bed', 'money', 'quality'})"
+168,0.012370311252992818,"frozenset({'product', 'installation', 'money'})"
+169,0.010375099760574621,"frozenset({'installation', 'good', 'money'})"
+170,0.007581803671189146,"frozenset({'installation', 'product', 'good', 'money'})"
+171,0.008778930566640064,"frozenset({'good', 'money', 'quality'})"
+172,0.010375099760574621,"frozenset({'product', 'money', 'quality'})"
+173,0.024341580207501996,"frozenset({'one', 'good'})"
+174,0.017557861133280128,"frozenset({'product', 'one'})"
+175,0.014764565043894652,"frozenset({'bed', 'one'})"
+176,0.007182761372705506,"frozenset({'one', 'price'})"
+177,0.013567438148443736,"frozenset({'installation', 'one'})"
+178,0.007182761372705506,"frozenset({'buy', 'one'})"
+179,0.007980845969672785,"frozenset({'one', 'product', 'good'})"
+180,0.007980845969672785,"frozenset({'installation', 'product', 'one'})"
+181,0.01636073423782921,"frozenset({'good', 'wood'})"
+182,0.014365522745411013,"frozenset({'product', 'wood'})"
+183,0.007581803671189146,"frozenset({'wood', 'money'})"
+184,0.01556264964086193,"frozenset({'bed', 'wood'})"
+185,0.007182761372705506,"frozenset({'installation', 'wood'})"
+186,0.019154030327214685,"frozenset({'wood', 'quality'})"
+187,0.007581803671189146,"frozenset({'buy', 'wood'})"
+188,0.007980845969672785,"frozenset({'good', 'quality', 'wood'})"
+189,0.007182761372705506,"frozenset({'bed', 'product', 'wood'})"
+190,0.007980845969672785,"frozenset({'product', 'wood', 'quality'})"
+191,0.007182761372705506,"frozenset({'bed', 'wood', 'quality'})"
+192,0.025139664804469275,"frozenset({'delivery', 'good'})"
+193,0.02114924181963288,"frozenset({'delivery', 'product'})"
+194,0.007581803671189146,"frozenset({'delivery', 'money'})"
+195,0.025538707102952914,"frozenset({'delivery', 'installation'})"
+196,0.012370311252992818,"frozenset({'delivery', 'time'})"
+197,0.007581803671189146,"frozenset({'delivery', 'bed'})"
+198,0.007182761372705506,"frozenset({'delivery', 'quality'})"
+199,0.014365522745411013,"frozenset({'delivery', 'installation', 'good'})"
+200,0.013168395849960097,"frozenset({'delivery', 'product', 'good'})"
+201,0.015163607342378291,"frozenset({'delivery', 'product', 'installation'})"
+202,0.009177972865123703,"frozenset({'delivery', 'installation', 'product', 'good'})"
+203,0.007581803671189146,"frozenset({'delivery', 'good', 'time'})"
+204,0.007182761372705506,"frozenset({'delivery', 'installation', 'time'})"
+205,0.0111731843575419,"frozenset({'product', 'best'})"
+206,0.009577015163607342,"frozenset({'best', 'good'})"
+207,0.008778930566640064,"frozenset({'best', 'price'})"
+208,0.010375099760574621,"frozenset({'awesome', 'product'})"
+209,0.013168395849960097,"frozenset({'range', 'good'})"
+210,0.012370311252992818,"frozenset({'range', 'product'})"
+211,0.01596169193934557,"frozenset({'range', 'price'})"
+212,0.010375099760574621,"frozenset({'range', 'good', 'price'})"
+213,0.009577015163607342,"frozenset({'range', 'product', 'good'})"
+214,0.009976057462090982,"frozenset({'range', 'product', 'price'})"
+215,0.007182761372705506,"frozenset({'range', 'product', 'good', 'price'})"
+216,0.008778930566640064,"frozenset({'get', 'product'})"
+217,0.007581803671189146,"frozenset({'get', 'good'})"
+218,0.009976057462090982,"frozenset({'get', 'bed'})"
+219,0.008778930566640064,"frozenset({'need', 'good'})"
+220,0.009177972865123703,"frozenset({'product', 'look'})"
+221,0.008778930566640064,"frozenset({'good', 'look'})"
+222,0.007182761372705506,"frozenset({'product', 'guy'})"
+223,0.007182761372705506,"frozenset({'guy', 'good'})"
+224,0.01077414205905826,"frozenset({'installation', 'guy'})"
+225,0.04748603351955307,"frozenset({'good', 'price'})"
+226,0.020351157222665603,"frozenset({'bed', 'price'})"
+227,0.04389465283320032,"frozenset({'product', 'price'})"
+228,0.017956903431763767,"frozenset({'quality', 'price'})"
+229,0.01596169193934557,"frozenset({'installation', 'price'})"
+230,0.012370311252992818,"frozenset({'bed', 'good', 'price'})"
+231,0.007980845969672785,"frozenset({'bed', 'product', 'price'})"
+232,0.02753391859537111,"frozenset({'product', 'good', 'price'})"
+233,0.009577015163607342,"frozenset({'product', 'quality', 'price'})"
+234,0.01077414205905826,"frozenset({'good', 'quality', 'price'})"
+235,0.012769353551476457,"frozenset({'product', 'installation', 'price'})"
+236,0.011971268954509178,"frozenset({'installation', 'good', 'price'})"
+237,0.009976057462090982,"frozenset({'installation', 'product', 'good', 'price'})"
+238,0.007980845969672785,"frozenset({'installation', 'perfect'})"
+239,0.010375099760574621,"frozenset({'product', 'perfect'})"
+240,0.008379888268156424,"frozenset({'bed', 'floor'})"
+241,0.008778930566640064,"frozenset({'team', 'good'})"
+242,0.010375099760574621,"frozenset({'team', 'installation'})"
+243,0.007182761372705506,"frozenset({'team', 'installation', 'good'})"
+244,0.007581803671189146,"frozenset({'bed', 'height'})"
+245,0.05626496408619314,"frozenset({'product', 'quality'})"
+246,0.02274541101356744,"frozenset({'installation', 'quality'})"
+247,0.06264964086193137,"frozenset({'good', 'quality'})"
+248,0.025937749401436554,"frozenset({'product', 'good', 'quality'})"
+249,0.013168395849960097,"frozenset({'product', 'installation', 'quality'})"
+250,0.013168395849960097,"frozenset({'installation', 'good', 'quality'})"
+251,0.007980845969672785,"frozenset({'installation', 'product', 'good', 'quality'})"
+252,0.008379888268156424,"frozenset({'product', 'please'})"
+253,0.007980845969672785,"frozenset({'buy', 'please'})"
+254,0.025538707102952914,"frozenset({'service', 'good'})"
+255,0.02314445331205108,"frozenset({'installation', 'service'})"
+256,0.02314445331205108,"frozenset({'product', 'service'})"
+257,0.008778930566640064,"frozenset({'bed', 'service'})"
+258,0.007581803671189146,"frozenset({'service', 'quality'})"
+259,0.007581803671189146,"frozenset({'service', 'time'})"
+260,0.013168395849960097,"frozenset({'installation', 'service', 'good'})"
+261,0.012769353551476457,"frozenset({'product', 'service', 'installation'})"
+262,0.0111731843575419,"frozenset({'product', 'service', 'good'})"
+263,0.012370311252992818,"frozenset({'use', 'good'})"
+264,0.007581803671189146,"frozenset({'use', 'bed'})"
+265,0.012769353551476457,"frozenset({'use', 'product'})"
+266,0.008379888268156424,"frozenset({'cant', 'bed'})"
+267,0.007182761372705506,"frozenset({'cant', 'good'})"
+268,0.009976057462090982,"frozenset({'installation', 'day'})"
+269,0.009577015163607342,"frozenset({'product', 'day'})"
+270,0.007980845969672785,"frozenset({'day', 'good'})"
+271,0.009177972865123703,"frozenset({'technician', 'installation'})"
+272,0.06464485235434957,"frozenset({'money', 'value'})"
+273,0.025139664804469275,"frozenset({'product', 'value'})"
+274,0.025139664804469275,"frozenset({'good', 'value'})"
+275,0.015163607342378291,"frozenset({'installation', 'value'})"
+276,0.009177972865123703,"frozenset({'nice', 'value'})"
+277,0.009177972865123703,"frozenset({'value', 'quality'})"
+278,0.010375099760574621,"frozenset({'bed', 'value'})"
+279,0.02154828411811652,"frozenset({'money', 'product', 'value'})"
+280,0.02314445331205108,"frozenset({'money', 'good', 'value'})"
+281,0.013168395849960097,"frozenset({'product', 'good', 'value'})"
+282,0.012370311252992818,"frozenset({'money', 'product', 'good', 'value'})"
+283,0.013168395849960097,"frozenset({'money', 'installation', 'value'})"
+284,0.008379888268156424,"frozenset({'product', 'installation', 'value'})"
+285,0.007581803671189146,"frozenset({'installation', 'good', 'value'})"
+286,0.007581803671189146,"frozenset({'money', 'product', 'installation', 'value'})"
+287,0.008379888268156424,"frozenset({'money', 'nice', 'value'})"
+288,0.009177972865123703,"frozenset({'money', 'value', 'quality'})"
+289,0.009976057462090982,"frozenset({'money', 'bed', 'value'})"
+290,0.01675977653631285,"frozenset({'buy', 'money'})"
+291,0.01596169193934557,"frozenset({'buy', 'good'})"
+292,0.008379888268156424,"frozenset({'buy', 'installation'})"
+293,0.03272146847565842,"frozenset({'buy', 'product'})"
+294,0.019952114924181964,"frozenset({'buy', 'quality'})"
+295,0.017158818834796488,"frozenset({'buy', 'bed'})"
+296,0.009177972865123703,"frozenset({'buy', 'product', 'money'})"
+297,0.009976057462090982,"frozenset({'buy', 'product', 'good'})"
+298,0.012370311252992818,"frozenset({'buy', 'product', 'quality'})"
+299,0.007980845969672785,"frozenset({'buy', 'bed', 'product'})"
+300,0.04549082202713488,"frozenset({'nice', 'product'})"
+301,0.02154828411811652,"frozenset({'nice', 'good'})"
+302,0.017956903431763767,"frozenset({'nice', 'installation'})"
+303,0.009976057462090982,"frozenset({'nice', 'money'})"
+304,0.019952114924181964,"frozenset({'nice', 'bed'})"
+305,0.008778930566640064,"frozenset({'nice', 'quality'})"
+306,0.0111731843575419,"frozenset({'nice', 'product', 'good'})"
+307,0.01077414205905826,"frozenset({'nice', 'product', 'installation'})"
+308,0.008778930566640064,"frozenset({'nice', 'installation', 'good'})"
+309,0.009177972865123703,"frozenset({'amp', 'good'})"
+310,0.008778930566640064,"frozenset({'amp', 'product'})"
+311,0.010375099760574621,"frozenset({'id', 'installation'})"
+312,0.007581803671189146,"frozenset({'id', 'good'})"
+313,0.01596169193934557,"frozenset({'worth', 'product'})"
+314,0.01596169193934557,"frozenset({'worth', 'good'})"
+315,0.01077414205905826,"frozenset({'worth', 'price'})"
+316,0.008778930566640064,"frozenset({'worth', 'installation'})"
+317,0.020351157222665603,"frozenset({'worth', 'money'})"
+318,0.007182761372705506,"frozenset({'worth', 'quality'})"
+319,0.009177972865123703,"frozenset({'worth', 'product', 'good'})"
+320,0.01556264964086193,"frozenset({'person', 'good'})"
+321,0.015163607342378291,"frozenset({'installation', 'person'})"
+322,0.011971268954509178,"frozenset({'product', 'person'})"
+323,0.009577015163607342,"frozenset({'installation', 'person', 'good'})"
+324,0.009577015163607342,"frozenset({'product', 'person', 'good'})"
+325,0.007182761372705506,"frozenset({'product', 'person', 'installation'})"
+326,0.01077414205905826,"frozenset({'work', 'installation'})"
+327,0.01077414205905826,"frozenset({'work', 'good'})"
+328,0.008778930566640064,"frozenset({'good', 'excellent'})"
+329,0.012769353551476457,"frozenset({'product', 'excellent'})"
+330,0.01077414205905826,"frozenset({'installation', 'excellent'})"
+331,0.01556264964086193,"frozenset({'product', 'worst'})"
+332,0.008379888268156424,"frozenset({'buy', 'worst'})"
+333,0.010375099760574621,"frozenset({'quality', 'worst'})"
+334,0.009976057462090982,"frozenset({'low', 'quality'})"
+335,0.009577015163607342,"frozenset({'product', 'low'})"
+336,0.007980845969672785,"frozenset({'bed', 'low'})"
+337,0.007581803671189146,"frozenset({'good', 'low'})"
+338,0.014365522745411013,"frozenset({'waste', 'money'})"
+339,0.008778930566640064,"frozenset({'product', 'waste'})"
+340,0.007980845969672785,"frozenset({'waste', 'quality'})"
+341,0.007182761372705506,"frozenset({'product', 'waste', 'money'})"
